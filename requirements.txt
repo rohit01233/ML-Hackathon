@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+faiss-cpu
+openai
+python-multipart
+streamlit
+requests
+numpy
+tqdm
+nltk
+python-dotenv

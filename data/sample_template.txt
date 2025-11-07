@@ -1,0 +1,10 @@
+source_name: sample_crime
+url: https://example.com/sample_crime
+date_published: 2025-01-01
+jurisdiction: national
+doc_type: guide
+
+Title: Sample Crime Guide
+
+Write a short verified "Initial Action Roadmap" here for a specific crime.
+Include steps like immediate actions, how to file FIR, evidence to preserve, and likely IPC sections.
