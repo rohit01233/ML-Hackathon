@@ -1,5 +1,6 @@
 import os, json, threading, time
 # Load .env from project root if present (allows local .env with OPENAI_API_KEY)
+from typing import Optional
 from dotenv import load_dotenv
 load_dotenv()
 from fastapi import FastAPI, Request
